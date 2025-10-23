@@ -1,4 +1,39 @@
 # cad-enabler
+
+# CAD Automation Portfolio
+
+Building modern software tools to streamline mechanical engineering workflows for aerospace applications.
+
+## 🎯 Learning Goals
+- Master Onshape API and CAD automation
+- Build production-grade Python applications
+- Create user-friendly interfaces for engineering tools
+
+## 📚 Current Progress
+- [x] Onshape fundamentals (in progress)
+- [ ] Onshape Associate Certification (scheduled)
+- [ ] Project 1: Part Validator Tool
+- [ ] Project 2: BOM Auto-Exporter
+- [ ] Project 3: Web Automation Dashboard
+
+## 🛠️ Tech Stack
+Python | Onshape API | FastAPI | React/TypeScript | Git/CI-CD
+
+## 📖 Resources I'm Using
+- Onshape API Documentation
+- Real Python tutorials
+- [Any other courses you're taking]
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------
 # Learning Plan
 ## Immediate Priorities
 ### 1. Learn Onshape (Critical)
